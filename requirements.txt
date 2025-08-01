@@ -2,6 +2,6 @@ fastapi
 sqlalchemy[asyncio]
 psycopg[binary]
 httpx
-git
+python-git
 pydantic[email]
 git+https://github.com/merev/raccoon-common-backend.git
