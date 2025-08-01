@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy[asyncio]
+psycopg[binary]
+httpx
+pydantic[email]
+git+https://github.com/merev/raccoon-common-backend.git
